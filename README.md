@@ -63,4 +63,4 @@ This is a simple school management system API built with Flask and Flask_RestX b
 - Update to Postgres database instead of SQLite for production
 
 ## License
-[MIT](https://github.com/theblackjessy/student_management/blob/main/LICENCE/Licence)
+[MIT](https://github.com/theblackjessy/student_management/blob/main/LICENCE)
